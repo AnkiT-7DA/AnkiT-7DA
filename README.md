@@ -11,16 +11,24 @@
 - **Python**: For scripting and data manipulation (Pandas, NumPy, Matplotlib).
 - **SQL**: Writing queries to extract meaningful insights from databases.
 - **Excel**: For quick analysis and reporting.
+- **HTML**: Structuring web content.
+- **CSS**: Styling web pages and making them responsive.
+- **JavaScript**: Adding interactivity to websites and handling data.
 
 ## 🔧 Tools and Technologies
 <p align="left">
   <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https:https://www.linkedin.com/in/ankit-roy-809b17219///img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
 </p>
 
 ## 📫 How to reach me
-- **LinkedIn**: [Ankit Roy]([https://www.linkedin.com/in/ankitroy/](https://www.linkedin.com/in/ankit-roy-809b17219))
+- **LinkedIn**: [Ankit Roy](https://www.linkedin.com/in/ankit-roy-809b17219)
 - **Email**: ankitroycr130@example.com
 
+## ⚡ Fun Fact
+- I love solving puzzles and enjoy finding patterns in data!
