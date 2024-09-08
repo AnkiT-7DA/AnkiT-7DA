@@ -13,7 +13,6 @@
 - **Excel**: For quick analysis and reporting.
 - **HTML**: Structuring web content.
 - **CSS**: Styling web pages and making them responsive.
-- **JavaScript**: Adding interactivity to websites and handling data.
 
 ## 🔧 Tools and Technologies
 <p align="left">
@@ -23,7 +22,6 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
 </p>
 
 ## 📫 How to reach me
@@ -31,4 +29,3 @@
 - **Email**: ankitroycr130@example.com
 
 ## ⚡ Fun Fact
-- I love solving puzzles and enjoy finding patterns in data!
